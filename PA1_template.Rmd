@@ -147,7 +147,7 @@ xyplot(steps ~ interval | day, StepsByDay, type = "l", layout = c(1,2),
        margin = T)
 ```
 
-## *NOTE*: for some reason the upper plot (weekend) does not appear, running the code normally gives both figures though. The figure is attached to the Github repo.
+## **NOTE**: for some reason the upper plot (weekend) does not appear, running the code normally gives both figures though. The figure is attached to the Github repo (named *PanelPlot*).
 
 
 
